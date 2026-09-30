@@ -1,0 +1,1 @@
+{"name":"semver","version":"0.1.0","entry":"src/semver.f","description":"Resource-bounded SemVer parsing, precedence, and deterministic ranges"}

@@ -1,0 +1,3 @@
+.semver-cert-*/
+.semver-diff-*/
+__pycache__/
